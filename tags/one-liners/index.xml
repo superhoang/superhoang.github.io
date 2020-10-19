@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>one-liners on superhoang-</title>
-    <link>http://superhoang.github.io/tags/one-liners/</link>
+    <link>https://superhoang.github.io/tags/one-liners/</link>
     <description>Recent content in one-liners on superhoang-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2020 12:12:58 +0200</lastBuildDate><atom:link href="http://superhoang.github.io/tags/one-liners/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 12:12:58 +0200</lastBuildDate><atom:link href="https://superhoang.github.io/tags/one-liners/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>One liners</title>
-      <link>http://superhoang.github.io/posts/one-liners/</link>
+      <link>https://superhoang.github.io/posts/one-liners/</link>
       <pubDate>Mon, 19 Oct 2020 12:12:58 +0200</pubDate>
       
-      <guid>http://superhoang.github.io/posts/one-liners/</guid>
+      <guid>https://superhoang.github.io/posts/one-liners/</guid>
       <description>Distinct / Remove duplicates from file
 gawk &amp;quot;!x[$0]++&amp;quot; &amp;lt;file&amp;gt; </description>
     </item>
